@@ -18,3 +18,19 @@ ApexCharts supports real-time updates, which means that as new data arrives from
 
 ‣ User Interaction:
 Users can interact with the chart by zooming in, panning, or hovering over data points to view detailed information. You may also include a tooltip that displays the exact value of a data point when the user hovers over it.
+
+► you need to install :
+    # npx create-react-app my-app
+    # npm i nodemon
+    # npm install apexcharts --save
+    # npm install react-apexcharts apexcharts
+
+► To Run :
+    # nodemon start
+
+► Production build :
+    # npm run build
+
+# Screenshot :
+
+    
