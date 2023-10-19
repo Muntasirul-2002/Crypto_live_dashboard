@@ -30,7 +30,3 @@ Users can interact with the chart by zooming in, panning, or hovering over data 
 
 ► Production build :
     # npm run build
-
-# Screenshot :
-
-    
