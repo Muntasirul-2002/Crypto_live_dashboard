@@ -32,4 +32,4 @@ Users can interact with the chart by zooming in, panning, or hovering over data 
     # npm run build
 
 # Demo : 
-    #https://crypto-live-by-islam.netlify.app/
+https://crypto-live-by-islam.netlify.app/
