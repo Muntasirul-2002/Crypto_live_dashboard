@@ -2,7 +2,9 @@
 # Description
 It is a Live auto updating Dashboard. This dashboard visualizes Crypto Market Data. Data used is dynamic, coming directly from crypto API. 
 Creating a crypto live dashboard using React with live data fetching from an API and interactive features like a dropdown to select different currencies is a great project. To implement this, i've used ApexCharts for rendering dynamic and interactive charts. 
-    # This is only for desktop view
+
+     » This is only for desktop view
+     
 ‣ ApexCharts Overview:
 ApexCharts is a popular JavaScript charting library that allows you to create beautiful and interactive charts for your web applications. It is well-suited for creating real-time and dynamic charts, making it a perfect choice for your crypto live dashboard project.
 
@@ -20,10 +22,10 @@ ApexCharts supports real-time updates, which means that as new data arrives from
 Users can interact with the chart by zooming in, panning, or hovering over data points to view detailed information. You may also include a tooltip that displays the exact value of a data point when the user hovers over it.
 
 ► you need to install :
-    # npx create-react-app my-app
-    # npm i nodemon
-    # npm install apexcharts --save
-    # npm install react-apexcharts apexcharts
+    »npx create-react-app my-app
+    »npm i nodemon
+    »npm install apexcharts --save
+    »npm install react-apexcharts apexcharts
 
 ► To Run :
     # nodemon start
